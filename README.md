@@ -174,7 +174,7 @@ export default Calculator;
 
 ## OUTPUT
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a5318a4d-4173-4f8c-a9f6-edec9949aa5a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d9eeb6aa-faae-49b8-ac3b-2016bb152339" />
 
 ## RESULT
 The program for developing a simple calculator in React.js is executed successfully.
